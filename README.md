@@ -25,7 +25,7 @@ With six years of hands-on experience, I bring a wealth of technical expertise t
 Embarking on the dynamic journey of software quality assurance, I have had the privilege of contributing to diverse projects that showcase my passion for precision and commitment to delivering flawless user experiences. From testing intricate functionalities to collaborating with cross-functional teams, explore the projects below to witness firsthand how my QA expertise has been instrumental in elevating the reliability and performance of software applications.
 
   1. [RestFul API test automation](https://github.com/faith-mutua/restassured/tree/main/api-automation) using Restassured and Cucumber
-  2. Web app test instrumentation using Selenium, JUnit and Cucumber
+  2. [Web app test instrumentation](https://github.com/faith-mutua/selenium-intsrumentation-framework) using Selenium, JUnit and Cucumber
   3. Mobile app test instrumentation using Appium and Cucumber
   4. Mobile app test instrumentation using Espresso and Cucumber
   5. Performance testing using locust.io
